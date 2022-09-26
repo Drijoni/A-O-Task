@@ -1,0 +1,41 @@
+header:
+ - bg: #293A88
+ - border: #495B9E
+
+heart:
+-bg:#D80126
+
+leaf: 
+-bg:#42A63A
+
+title: 
+-bg:#283B86
+
+
+Second Section:
+1 - 7 -> bg: #22A738 
+2-8 -> bg:#283B86
+3 - 5 -> bg: #FECB05
+4 - 6 -> bg: #389EE0 
+
+Green section:
+- Gardient : 
+    background: rgb(0, 159, 225);
+    background: linear-gradient(90deg, rgba(0, 159, 225, 1) 0%, rgba(35, 166, 56, 1) 100%);
+
+Title:
+bg- #FECB05
+
+text on checkboxes- #F8CB29
+
+-Button
+ bg:#F8CB29
+
+
+Footer:
+bg:#28317A
+buttons: #DF5A33
+
+NOTE: Paddings in the Second and Footer section are the same!
+NOTE: STICKY SECOND HEADER
+
